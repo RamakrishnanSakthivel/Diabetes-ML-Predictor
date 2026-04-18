@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+
+# Model files (too large for GitHub)
+downloaded_model/
+local_model/
+diabetes.csv
+
+# Azure
+.azure/
+
+# VS Code
+.vscode/
